@@ -1,1 +1,1 @@
-# curiosity-generator
+curiosity
