@@ -9,7 +9,7 @@ Curiosity Generator solves this by presenting random thought-provoking questions
 
 ## 🌐 Live Demo
 
-Coming soon.
+https://curiosity-jagratahuja.vercel.app/
 
 ---
 
