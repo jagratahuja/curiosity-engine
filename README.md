@@ -52,4 +52,5 @@ curiosity-generator
 Jagrat Ahuja
 
 GitHub: https://github.com/jagratahuja
+
 Portfolio: https://jagratahuja.vercel.app/
