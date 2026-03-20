@@ -1,4 +1,4 @@
-# Curiosity Generator
+# Curiosity Engine
 
 A React and TypeScript app that serves up curiosity prompts across science, history, technology, space, and random facts; and lets users jump straight into exploring each topic.
 
